@@ -1,0 +1,11 @@
+ultralytics==8.0.20
+git+https://github.com/openai/CLIP.git
+torch>=1.13.1
+torchvision>=0.14.1
+opencv-python
+Pillow
+numpy
+ffmpeg-python
+ipython
+notebook
+IPython
